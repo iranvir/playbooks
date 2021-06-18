@@ -1,0 +1,9 @@
+[SSDNodes]
+real    6m10.527s
+user    0m18.613s
+sys     0m1.898s
+
+[DigitalOcean]
+real    2m52.446s
+user    0m9.210s
+sys     0m0.881s
